@@ -1,4 +1,4 @@
-<h1><center>Computation of Grades</center></h1>
+	<h1><center>Computation of Grades</center></h1>
 <body background-image: linear-gradient( 135deg, #FFF6B7 10%, #F6416C 100%);>
 <table border=1 align=center>
 <form action=compute.php method=post>
